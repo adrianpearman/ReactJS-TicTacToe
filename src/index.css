@@ -47,3 +47,7 @@ ol, ul{
 .game-info{
   margin-left: 20px;
 }
+
+.game-info li:last-child {
+    background-color: #56ebba;
+}
